@@ -5,6 +5,6 @@ package com.google;
  */
 public class App {
     public static void main(String[] args) {
-        System.out.println("Happy ending!!");
+        System.out.println("Happy morning!!");
     }
 }
