@@ -5,6 +5,6 @@ node {
     }
     
     stage('build') {
-        sh 'mvn clean test'
+        sh 'mvn clean package'
     }
 }
